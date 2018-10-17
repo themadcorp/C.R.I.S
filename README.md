@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/themadcorp/C.R.I.S/tree/master/static/img/icons/android-chrome-192x192.png "C.R.I.S")
 > Campus Radio & Information System.
-> C.R.I.S is a progressive web app (PWA) made using vue.js and firebase.
+ C.R.I.S is a progressive web app (PWA) made using vue.js and firebase.
 
 ## Build Setup
 
