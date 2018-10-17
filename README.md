@@ -1,6 +1,6 @@
-# cris
+# C.R.I.S
 
-> Campus Radio & Informatics System
+> Campus Radio & Information System
 
 ## Build Setup
 
