@@ -1,6 +1,7 @@
 # C.R.I.S
 
 > Campus Radio & Information System
+> C.R.I.S is a progressive web app (PWA) made using vue.js and firebase.
 
 ## Build Setup
 
